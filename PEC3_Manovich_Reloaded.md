@@ -44,9 +44,9 @@ Spotify también puede relacionarse con la **inteligencia colectiva** de Pierre 
 
 No obstante, la mirada crítica es necesaria. La hibridación de Spotify amplía el acceso y facilita el descubrimiento, pero también desplaza poder hacia la plataforma. Si el software organiza la escucha, también puede influir en qué artistas aparecen, qué géneros se vuelven visibles y qué hábitos musicales se normalizan. La personalización promete libertad, pero puede encerrar al usuario en burbujas de gusto o convertir la exploración musical en una navegación guiada por métricas. Por ello, Spotify encaja en una hipotética segunda versión del libro de Manovich: muestra cómo el software contemporáneo no solo transforma los medios, sino que gobierna la atención cultural mediante interfaces aparentemente sencillas.
 
-### Recursos multimedia recomendados para el repositorio
+### Recursos multimedia
 
-- Captura de pantalla de una lista personalizada como *Discover Weekly* o *Daily Mix*.
+- ![Captura de una lista propia de mi cuenta de spotify](img/spoty.png)
 - Enlace a la página corporativa de Spotify: <https://investors.spotify.com/about/default.aspx>
 - Enlace a una entrada del Spotify Newsroom sobre personalización algorítmica: <https://newsroom.spotify.com/2025-12-10/spotify-prompted-playlists-algorithm-gustav-soderstrom/>
 
