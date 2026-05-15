@@ -78,7 +78,7 @@ Por todo ello, Notion sería un buen ejemplo para una ampliación contemporánea
 
 ### Recursos multimedia recomendados para el repositorio
 
-- Captura de pantalla de una página de Notion con varias vistas de una misma base de datos.
+- ![Vista de una base de datos de mi notion personal](img/notion.png)
 - Enlace al centro de ayuda de Notion: <https://www.notion.com/help/guides/category/documentation>
 - Enlace al Marketplace de plantillas: <https://www.notion.com/templates>
 

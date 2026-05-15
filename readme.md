@@ -46,7 +46,7 @@ No obstante, la mirada crítica es necesaria. La hibridación de Spotify amplía
 
 ### Recursos multimedia
 
-- ![alt text](img/spoty.png)
+- ![Captura de una lista propia de mi cuenta de spotify](img/spoty.png)
 - Enlace a la página corporativa de Spotify: <https://investors.spotify.com/about/default.aspx>
 - Enlace a una entrada del Spotify Newsroom sobre personalización algorítmica: <https://newsroom.spotify.com/2025-12-10/spotify-prompted-playlists-algorithm-gustav-soderstrom/>
 
@@ -78,7 +78,7 @@ Por todo ello, Notion sería un buen ejemplo para una ampliación contemporánea
 
 ### Recursos multimedia recomendados para el repositorio
 
-- Captura de pantalla de una página de Notion con varias vistas de una misma base de datos.
+- ![Vista de una base de datos de mi notion personal](img/notion.png)
 - Enlace al centro de ayuda de Notion: <https://www.notion.com/help/guides/category/documentation>
 - Enlace al Marketplace de plantillas: <https://www.notion.com/templates>
 
